@@ -5,8 +5,8 @@
 Este repositório contém todos os desafios de projeto executados durante o BootCamp Python Data Analytics promovido pela DIO em parceria com a SQUADIO.
 
 ## 🎢Desafios de Projetos
-- Link: Desafio 1
-- Link: Desafio 2
+- [Relatório de Vendas com Power Bi](https://github.com/jessieFerrS/BootCamp-Python-Analytics-Squadio-DIO/tree/main/Desafio%20de%20Projeto%20DIO%20-%20Criando%20um%20Relat%C3%B3rio%20de%20Vendas%20Elegante%20com%20Power%20BI)
+- [Processando e Transformando Dados com Power BI](https://github.com/jessieFerrS/BootCamp-Python-Analytics-Squadio-DIO/tree/main/Desafio%20de%20Projeto%20DIO%20-%20Coleta%20e%20Processamento%20de%20Dados%20com%20Power%20BI)
 
 ## ⚙️Tecnologias Utilizadas Durante o BootCamp
 - Python - IDE: Pycharm
@@ -29,8 +29,8 @@ Este projeto está sobre Licença MIT.
 This repository contains all the project challenges carried out during the Python Data Analytics BootCamp promoted by DIO in partnership with SQUADIO.
 
 ## 🎢Project Challenges
-- Link: Challenge 1
-- Link: Challenge 2
+- [Sales Report with Power Bi](https://github.com/jessieFerrS/BootCamp-Python-Analytics-Squadio-DIO/tree/main/Desafio%20de%20Projeto%20DIO%20-%20Criando%20um%20Relat%C3%B3rio%20de%20Vendas%20Elegante%20com%20Power%20BI)
+- [Processing and Transforming Data with Power BI](https://github.com/jessieFerrS/BootCamp-Python-Analytics-Squadio-DIO/tree/main/Desafio%20de%20Projeto%20DIO%20-%20Coleta%20e%20Processamento%20de%20Dados%20com%20Power%20BI)
 
 ## ⚙️Technologies
 - Python - IDE: Pycharm
